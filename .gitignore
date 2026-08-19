@@ -1,0 +1,26 @@
+# ========== Visual Studio 生成文件 ==========
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+*.aps
+
+# ========== 编译输出 ==========
+Debug/
+Release/
+x64/
+Win32/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+*.manifest

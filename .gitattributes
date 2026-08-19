@@ -1,0 +1,9 @@
+# 统一文本文件的换行符，避免不同系统提交时出现差异
+* text=auto
+*.cpp text
+*.h text
+*.md text
+*.txt text
+*.sln text
+*.vcxproj text
+*.filters text
