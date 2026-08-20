@@ -73,3 +73,6 @@ bool strToInt(const string& s, int& val) {
     val = (int)strtol(t.c_str(), &end, 10);
     return end != t.c_str() && *end == '\0';
 }
+
+
+//统一字符
